@@ -2,7 +2,7 @@
 <h3 align="center">Ongoing pursuit of knowledge</h3>
 
 <p align="center">
-  <img src="https://www.pexels.com/photo/black-laptop-beside-audio-mixer-set-919734/" alt="Banner Image" />
+  <img src="https://images.pexels.com/photos/919734/pexels-photo-919734.jpeg?auto=compress&cs=tinysrgb&w=600" alt="Banner Image" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakharmishra263139&label=Profile%20views&color=0e75b6&style=flat" alt="prakharmishra263139" /> </p>
