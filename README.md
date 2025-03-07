@@ -38,9 +38,7 @@ Whether it's machine learning models, software applications, or analytical insig
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=prakhar-mishra&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prakhar-mishra" alt="GitHub Streak" />
-</p>
+
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prakhar-mishra&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
