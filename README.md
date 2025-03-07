@@ -1,9 +1,12 @@
 
-<h1>Hi 👋, I'm a Tech Novice</h1>
+<h1>Hi 👋, I'm a Tech Novice & Software Engineer in Progress</h1>
 
-I'm a Computer Science student with a passion for software development and data analysis. I love solving complex problems, exploring innovative technologies, and building projects that make an impact.
+I'm a Computer Science student with a passion for software development and data analysis. 
+I love solving complex problems, exploring innovative technologies, and building projects that make an impact.
 
-With experience in Java, Python, AI/ML, and data-driven solutions, I enjoy working on projects that blend code, logic, and creativity. Whether it's machine learning models, software applications, or analytical insights, I'm always eager to learn, experiment, and grow.
+With experience in Java, Python, AI/ML, and data-driven solutions, I enjoy working on projects that blend code, logic, and creativity. Whether it's machine learning models, software applications, or analytical insights.
+
+I'm always eager to learn, experiment, and grow.
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p>
